@@ -1,0 +1,42 @@
+.cls{
+	max-height:600px;
+}
+.carousel-inner{
+	width: :560px;
+	height: 560px;
+}
+.card{
+	max-height:600px;
+}
+@media only screen and (max-width: 768px) {
+ .card{
+ 	margin-top: 50px;
+ }
+}
+.navbar-right{
+	margin-left: 700px;
+}
+@media only screen and (max-width: 1500px){
+	#sel{
+ 	margin-left: 0px;
+ }
+}
+@media only screen and (max-width: 400px){
+	#singapore{
+		margin-top: 0px
+	}
+}
+.hidee{
+	display: none;
+}
+@media only screen and(max-width: 993px){
+	.first{
+		margin-top: 0px
+	}
+}
+.nav{
+	margin-bottom: 60px;
+}
+#jum{
+	margin-top: 60px;
+}
